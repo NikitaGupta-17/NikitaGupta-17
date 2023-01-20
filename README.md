@@ -5,3 +5,5 @@
 -📫 How to reach me nikita2002gupta@gmail.com<br>
 
 <a href="https://quine.sh/profile/Nikita"><img src="https://stats.quine.sh/Nikita/github" alt="Nikita's GitHub stats" width="840px"></a>
+
+<a href="https://quine.sh/profile/Nikita"><img src="https://stats.quine.sh/Nikita/verified-languages" alt="Nikita's language experiences" width="840px"></a>
