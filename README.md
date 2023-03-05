@@ -21,5 +21,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NikitaGupta-17&show_icons=true&locale=en" alt="NikitaGupta-17" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NikitaGupta-17&" alt="NikitaGupta-17" /></p>
-<p src="//cdn.credly.com/assets/utilities/embed.js">
-
