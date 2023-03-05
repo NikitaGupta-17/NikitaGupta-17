@@ -22,3 +22,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NikitaGupta-17&" alt="NikitaGupta-17" /></p>
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="9e1f1ed5-0715-40f0-a92b-901b20f72607" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
